@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">CAS</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email ID</string>
+    <string name="empid">Employee ID</string>
+    <string name="phno">app_name">Mobile Number</string>
+    <string name="conpassword">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="instructions">Instructions</string>
+    <string name="next">Next >> </string>
+    <string name="ChgLng">Change Language</string>
+    <string name="verifyFP">Verify your Fingerprint</string>
+    <string name="pickLoc">Fetch Location and Mark Attendance</string>
+    <string name="locationTV">Tap pick location to get your address</string>
+    <string name="welcome">Welcome</string>
+    <string name="notuser">Not an user? Register Here.</string>
+    <string name="PWD">PWD,Delhi</string>
+    <string name="Inst">Instructions</string>
+    <string name="Register">Register to the App</string>
+    <string name="Signin">Sign in with user name</string>
+    <string name="Trunon">Turn on GPS</string>
+    <string name="Fetchlocation">Fetch Location</string>
+    <string name="Welcome">Welcome to Centralized Attendance System</string>
+    <string name="Reg">REGISTER</string>
+    <string name="ph">Ph_No</string>
+    <string name="emp">Emp_id</string>
+    <string name="em">E-mail</string>
+</resources>

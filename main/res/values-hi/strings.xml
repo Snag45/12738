@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CAS</string>
+    <string name="sign_in">साइन इन करें</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="password">पारण शब्द</string>
+    <string name="email">ईमेल</string>
+    <string name="empid">कर्मचारी आईडी</string>
+    <string name="phno">मोबाइल नंबर</string>
+    <string name="conpassword">पारण शब्द की पुष्टि कीजिये</string>
+    <string name="signup">साइन अप करें</string>
+    <string name="instructions">अनुदेश</string>
+    <string name="next">"अगला पृष्ठ >> "</string>
+    <string name="verifyFP">अपनी फिंगरप्रिंट सत्यापित करें</string>
+    <string name="ChgLng">भाषा बदलो</string>
+    <string name="pickLoc">स्थान और मार्क उपस्थिति प्राप्त करें</string>
+    <string name="locationTV">अपना पता प्राप्त करने के लिए स्थान चुनें टैप करें</string>
+    <string name="welcome">नमस्ते</string>
+    <string name="notuser">एक उपयोगकर्ता नहीं? यहां रजिस्टर कर</string>
+    <string name="PWD">पीडब्ल्यूडी,दिल्ली</string>
+    <string name="Inst">अनुदेश</string>
+    <string name="Register">ऐप में रजिस्टर करें</string>
+    <string name="Signin">यूज़रनेम के साथ साइन इन करें</string>
+    <string name="Trunon">जीपीएस चालू करें</string>
+    <string name="Fetchlocation">स्थान प्राप्त करें</string>
+    <string name="Welcome">केंद्रीकृत उपस्थिति प्रणाली में आपका स्वागत है</string>
+    <string name="Reg">रजिस्टर</string>
+    <string name="ph">फ़ोन नंबर</string>
+    <string name="emp">रोजगार_आईडी</string>
+    <string name="em">ईमेल</string>
+</resources>

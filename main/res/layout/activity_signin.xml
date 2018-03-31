@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img2"
+    tools:context="com.shreenagaraga.fingerlocationapp.Signin">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="566dp"
+        tools:layout_editor_absoluteY="1dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_above="@+id/email"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="54dp"
+            app:srcCompat="@drawable/su" />
+
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_above="@+id/password"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="13dp"
+            android:background="#11000000"
+            android:drawableLeft="@drawable/ic_action_user"
+            android:ems="10"
+            android:hint="@string/username"
+            android:textColor="#ffffff"
+            android:inputType="textPersonName"
+            android:textColorHint="#ffffff"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_above="@+id/notuser"
+            android:layout_alignStart="@+id/email"
+            android:layout_marginBottom="95dp"
+            android:background="#11000000"
+            android:drawableLeft="@drawable/ic_action_pass"
+            android:ems="10"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:textColorHint="#ffffff"
+            android:textColor="#ffffff"
+            android:textSize="16sp"
+            tools:layout_editor_absoluteX="92dp"
+            tools:layout_editor_absoluteY="193dp" />
+
+        <Button
+            android:id="@+id/buttonSignin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/notuser"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="22dp"
+            android:background="#11000000"
+            android:text="@string/sign_in"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            tools:layout_editor_absoluteX="146dp"
+            tools:layout_editor_absoluteY="259dp" />
+
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="@string/PWD"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/notuser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textView9"
+            android:layout_alignStart="@+id/password"
+            android:layout_marginBottom="116dp"
+            android:background="#11000000"
+            android:text="@string/notuser"
+            android:textColor="#ffffff" />
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

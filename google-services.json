@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "487455443975",
+    "firebase_url": "https://fingerlocationapp.firebaseio.com",
+    "project_id": "fingerlocationapp",
+    "storage_bucket": "fingerlocationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487455443975:android:cd97160e040e2395",
+        "android_client_info": {
+          "package_name": "com.shreenagaraga.fingerlocationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487455443975-ms5b3bcsk2f1b18bcv9jt3a728ka4som.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shreenagaraga.fingerlocationapp",
+            "certificate_hash": "67db035b8cd13ea6530539d9c789c2206e1457d4"
+          }
+        },
+        {
+          "client_id": "487455443975-5v07ctfh1vugvibq9k65t1kg3ti93obj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shreenagaraga.fingerlocationapp",
+            "certificate_hash": "b7bbdacb7a2fc0308af7b31a0f27a631147911ef"
+          }
+        },
+        {
+          "client_id": "487455443975-t3sukql85cqqt7feh9cuf6foadhs2q14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlmR9IneElnLAeiIBi1jJnbufDgDcbSA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487455443975-t3sukql85cqqt7feh9cuf6foadhs2q14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
